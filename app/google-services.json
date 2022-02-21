@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198806901486",
+    "project_id": "bug-tracker-28d11",
+    "storage_bucket": "bug-tracker-28d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198806901486:android:33b3cbd9032a18638419ff",
+        "android_client_info": {
+          "package_name": "com.moringaschool.bug_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198806901486-gksn71126gvbmctbc7ld0dess0jinoab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszu5hYUQtM7okZgt0ifRIgPiNJLfQUZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198806901486-gksn71126gvbmctbc7ld0dess0jinoab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
